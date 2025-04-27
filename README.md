@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Vincent Ojiambo, a passionate Full Stack web developer
+I'm Vincent Ojiambo, a passionate Software Developer
 
 
 ## 🌐 Socials:
